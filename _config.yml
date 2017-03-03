@@ -40,3 +40,4 @@ jekyll-archives:
     day: day-archive
     tag: tag-archive
     category: tag-archive
+timezone: Asia/Tokyo
