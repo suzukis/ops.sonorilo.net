@@ -1,0 +1,93 @@
+---
+layout: post
+title:  pkg version change 2020-06-16
+date:   2020-06-16 23:59:59
+category: pkg
+---
+
+    --- /var/db/pkg/version/2020-06-15	2020-06-16 01:21:00.058854000 +0900
+    +++ /var/db/pkg/version/2020-06-16	2020-06-17 01:21:00.057007000 +0900
+    @@ -1,83 +0,0 @@
+    -apr-1.7.0.1.6.1                    =
+    -bash-5.0.11                        =
+    -ca_root_nss-3.50                   =
+    -curl-7.67.0                        =
+    -cvsps-2.1_2                        =
+    -db5-5.3.28_7                       =
+    -expat-2.2.8                        =
+    -gdbm-1.18.1_1                      =
+    -gettext-runtime-0.20.1             =
+    -git-2.24.1                         =
+    -indexinfo-0.3.1                    =
+    -libedit-3.1.20191211,1             =
+    -libffi-3.2.1_3                     =
+    -libgcrypt-1.8.5                    =
+    -libgpg-error-1.36                  =
+    -liblz4-1.9.2,1                     =
+    -libnghttp2-1.40.0                  =
+    -libunwind-20170615                 =
+    -libxml2-2.9.10                     =
+    -libxslt-1.1.34                     =
+    -libyaml-0.2.2                      =
+    -lv-4.51_3                          =
+    -p5-Authen-SASL-2.16_1              =
+    -p5-CGI-4.44                        =
+    -p5-Digest-HMAC-1.03_1              =
+    -p5-Error-0.17028                   =
+    -p5-GSSAPI-0.28_1                   =
+    -p5-HTML-Parser-3.72                =
+    -p5-HTML-Tagset-3.20_1              =
+    -p5-IO-Socket-INET6-2.72_1          =
+    -p5-IO-Socket-SSL-2.066             =
+    -p5-Mozilla-CA-20180117             =
+    -p5-Net-SSLeay-1.85                 =
+    -p5-Socket6-0.29                    =
+    -p5-Term-ReadKey-2.38_1             =
+    -p5-subversion-1.13.0               =
+    -pcre-8.43_2                        =
+    -pefs-kmod-2018.11.26               =
+    -perl5-5.30.1                       =
+    -pkg-1.12.0_1                       =
+    -pkgconf-1.6.3,1                    =
+    -py27-acme-1.0.0,1                  =
+    -py27-asn1crypto-0.24.0             =
+    -py27-certbot-1.0.0,1               =
+    -py27-certifi-2019.11.28            =
+    -py27-cffi-1.13.2                   =
+    -py27-chardet-3.0.4_3               =
+    -py27-configargparse-1.0            =
+    -py27-configobj-5.0.6_1             =
+    -py27-cryptography-2.6.1            =
+    -py27-distro-1.4.0_1                =
+    -py27-enum34-1.1.6                  =
+    -py27-idna-2.8                      =
+    -py27-ipaddress-1.0.23              =
+    -py27-josepy-1.2.0                  =
+    -py27-openssl-19.0.0                =
+    -py27-parsedatetime-2.5             =
+    -py27-pycparser-2.19                =
+    -py27-pyrfc3339-1.1                 =
+    -py27-pysocks-1.7.1                 =
+    -py27-pytz-2019.3,1                 =
+    -py27-requests-2.22.0               =
+    -py27-requests-toolbelt-0.8.0_1     =
+    -py27-setuptools-41.4.0_1           =
+    -py27-six-1.12.0                    =
+    -py27-urllib3-1.25.6,1              =
+    -py27-zope.component-4.2.2          =
+    -py27-zope.event-4.1.0              =
+    -py27-zope.interface-4.6.0          =
+    -python27-2.7.17_1                  =
+    -python37-3.7.6                     =
+    -readline-8.0.1                     =
+    -ruby-2.6.5,1                       =
+    -ruby26-gems-3.0.6                  =
+    -rubygem-file-tail-1.2.0            =
+    -rubygem-tins-1.22.2                =
+    -serf-1.3.9_4                       =
+    -sqlite3-3.30.1                     =
+    -subversion-1.13.0                  =
+    -sudo-1.8.31                        =
+    -utf8proc-2.4.0                     =
+    -vim-console-8.1.2372               =
+    -zsh-5.7.1_1                        =
